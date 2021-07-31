@@ -10,5 +10,9 @@
 
 ### 界面参考 https://ext.dcloud.net.cn/plugin?id=1972
 ![登录](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/843bfbc0-a683-11ea-97e2-b78655c2e03e_0.png?v=1591289507)
+![添加好友](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/843bfbc0-a683-11ea-97e2-b78655c2e03e_1.png?v=1591289512)
+![好友列表](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/843bfbc0-a683-11ea-97e2-b78655c2e03e_2.png?v=1591289516)
+![消息列表](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/843bfbc0-a683-11ea-97e2-b78655c2e03e_3.png?v=1591289522)
+![消息](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/843bfbc0-a683-11ea-97e2-b78655c2e03e_4.png?v=1591289530)
 
  
