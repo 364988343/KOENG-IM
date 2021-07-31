@@ -8,5 +8,7 @@
 <big>Qusetion1：为何写这样的一个DEMO？</big><br/>
 答：写这个demo的初衷也是作为简单聊天接入<br/>
 
+### 界面参考 https://ext.dcloud.net.cn/plugin?id=1972
+图片[(#https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/843bfbc0-a683-11ea-97e2-b78655c2e03e_0.png?v=1591289507)]
 
  
